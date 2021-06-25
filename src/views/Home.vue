@@ -1,6 +1,8 @@
 <template>
   <div class="home">
-    Home
+    <h1>
+      Adopt a new bestfriend  
+    </h1>
   </div>
 </template>
 
